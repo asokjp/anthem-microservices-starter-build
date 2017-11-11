@@ -18,7 +18,7 @@
 		<repo.with.binaries>http://localhost:8081/artifactory/libs-release-local</repo.with.binaries>
 	</properties>
 		<!-- [PIPELINE] -->
-	<!-- 
+	
 	<distributionManagement>
 		<repository>
 			<id>${distribution.management.release.id}</id>
@@ -31,7 +31,7 @@
 			<url>${distribution.management.snapshot.url}</url>
 		</snapshotRepository>
 	</distributionManagement>
-	 -->
+	
 	<profiles>
 	<profile>
 			<id>spring</id>

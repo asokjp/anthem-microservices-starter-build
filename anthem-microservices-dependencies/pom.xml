@@ -33,7 +33,7 @@
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
-  		<!-- 
+  		
 	<distributionManagement>
 		<repository>
 			<id>${distribution.management.release.id}</id>
@@ -46,7 +46,7 @@
 			<url>${distribution.management.snapshot.url}</url>
 		</snapshotRepository>
 	</distributionManagement>
-	 -->
+	
 	<profiles>
 	<profile>
 			<id>spring</id>
